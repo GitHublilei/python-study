@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b140e97-8e3a-409c-a3b0-bf04a0f4ce10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/label/handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/label/markup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/label/rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/label/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/label/test_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/label/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_markup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/test_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setupS/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple3.cgi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sockets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/report/hello_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/report/sunspots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/report/sunspots_proto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/xmlP/pagemaker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/xmlP/website.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/xmlP/website.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/weights.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +21,12 @@
     <session id="-2129940250">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="12" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.3" value="15" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,133 +36,46 @@
           <entry key="cgi" value="1" />
           <entry key="dat" value="2" />
           <entry key="dir" value="2" />
-          <entry key="html" value="5" />
-          <entry key="py" value="28" />
+          <entry key="html" value="7" />
+          <entry key="pagemaker" value="1" />
+          <entry key="png" value="2" />
+          <entry key="py" value="35" />
           <entry key="queen" value="1" />
           <entry key="txt" value="6" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
+          <entry key="HTML" value="7" />
+          <entry key="Image" value="2" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="29" />
+          <entry key="Python" value="37" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cgi" value="8" />
           <entry key="dummy" value="1" />
-          <entry key="py" value="10615" />
+          <entry key="pagemaker" value="1028" />
+          <entry key="py" value="14644" />
           <entry key="queen" value="275" />
           <entry key="txt" value="19" />
+          <entry key="xml" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="10890" />
+          <entry key="Python" value="15947" />
+          <entry key="XML" value="52" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/label/handlers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-              <folding>
-                <marker date="1534904050498" expanded="true" signature="14:19" ph="..." />
-                <marker date="1534904050498" expanded="true" signature="605:1304" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/label/rules.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-              <folding>
-                <marker date="1534842693818" expanded="true" signature="11:16" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/label/markup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1534916491168" expanded="true" signature="408:421" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/simple_markup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project/util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/test_input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/label/util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding>
-                <marker date="1534916179334" expanded="true" signature="16:38" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/label/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/label/test_input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -219,10 +124,17 @@
         <option value="$PROJECT_DIR$/project/label/util.py" />
         <option value="$PROJECT_DIR$/project/label/markup.py" />
         <option value="$PROJECT_DIR$/project/util.py" />
+        <option value="$PROJECT_DIR$/project/report/hello_report.py" />
+        <option value="$PROJECT_DIR$/project/report/sunspots_proto.py" />
+        <option value="$PROJECT_DIR$/project/report/sunspots.py" />
+        <option value="$PROJECT_DIR$/project/xmlP/website.xml" />
+        <option value="$PROJECT_DIR$/project/xmlP/pagemaker" />
+        <option value="$PROJECT_DIR$/project/xmlP/website.py" />
+        <option value="$PROJECT_DIR$/pygame/weights.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="770" />
     <option name="height" value="691" />
@@ -245,7 +157,7 @@
             <path>
               <item name="python-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-study" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,13 +171,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vic\Documents\git\python-study\project" />
+      <recent name="C:\Users\vic\Documents\git\python-study\project\label" />
+      <recent name="C:\Users\vic\Documents\git\python-study" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vic\Documents\git\python-study\project" />
       <recent name="C:\Users\vic\Documents\git\python-study\project\label" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vic\Documents\git\python-study\project\label" />
-      <recent name="C:\Users\vic\Documents\git\python-study" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -280,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.markup">
-    <configuration name="markup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.weights">
+    <configuration name="pagemaker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/label" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/xmlP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/label/markup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/xmlP/pagemaker" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sunspots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/setupS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/report" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setupS/setup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/report/sunspots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sockets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sunspots_proto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/report" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sockets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/report/sunspots_proto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socketss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="website" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/xmlP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socketss.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/xmlP/website.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weights" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame/weights.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,19 +300,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sockets" />
-      <item itemvalue="Python.socketss" />
-      <item itemvalue="Python.test01" />
-      <item itemvalue="Python.setup" />
-      <item itemvalue="Python.markup" />
+      <item itemvalue="Python.sunspots_proto" />
+      <item itemvalue="Python.sunspots" />
+      <item itemvalue="Python.pagemaker" />
+      <item itemvalue="Python.website" />
+      <item itemvalue="Python.weights" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.markup" />
-        <item itemvalue="Python.setup" />
-        <item itemvalue="Python.test01" />
-        <item itemvalue="Python.sockets" />
-        <item itemvalue="Python.socketss" />
+        <item itemvalue="Python.weights" />
+        <item itemvalue="Python.website" />
+        <item itemvalue="Python.pagemaker" />
+        <item itemvalue="Python.sunspots" />
+        <item itemvalue="Python.sunspots_proto" />
       </list>
     </recent_temporary>
   </component>
@@ -417,21 +330,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="770" height="691" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1591512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15885417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4354561" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50774527" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39931154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32911393" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32874355" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -449,6 +361,11 @@
           <url>file://$PROJECT_DIR$/repy.py</url>
           <line>12</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/xmlP/pagemaker</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -588,27 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/label/handlers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding>
-            <marker date="1534904050498" expanded="true" signature="14:19" ph="..." />
-            <marker date="1534904050498" expanded="true" signature="605:1304" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/label/rules.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <marker date="1534842693818" expanded="true" signature="11:16" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/label/test_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -619,43 +515,19 @@
     <entry file="file://$PROJECT_DIR$/project/label/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/label/util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1534916179334" expanded="true" signature="16:38" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/label/markup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1534916491168" expanded="true" signature="408:421" ph="..." />
-          </folding>
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/test_input.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/simple_markup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/test_output.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -671,6 +543,124 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/simple_markup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/label/markup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/label/rules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/label/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/report/hello_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/report/sunspots_proto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/report/sunspots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/xmlP/sleeping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/xmlP/website.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/xmlP/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/xml/sax/expatreader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/xmlP/website.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/xmlP/pagemaker">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/1053243-20161204203957756-539507715.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/weight.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/weights.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1535451158282" expanded="true" signature="113:114" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
